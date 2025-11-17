@@ -13,7 +13,11 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000` in your browser.
+## 🔗 Live Demo
+
+**Production Deployment:**  
+👉https://memora-second-mind.onrender.com/ 
+
 
 ## High-level Architecture
 
@@ -70,5 +74,6 @@ ENCRYPTION_KEY=...(master key, keep secret)
 ## Diagrams
 
 All system diagrams are explain [Here](System_Desgin_Diagram.md)
+
 
 
